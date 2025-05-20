@@ -148,11 +148,12 @@ g++ Main.cpp -o TaskManager -lsqlite3
 
 ## 👨‍💻 Authors
 
-**Sujjal Chapagain**  
-**Abhiyan Poudel**
-**Hanzla Hamid**
-**Arjav Lamsal**
-Sophomore, Computer Science  
+- **Sujjal Chapagain**  
+- **Abhiyan Poudel**  
+- **Hanzla Hamid**  
+- **Arjav Lamsal**
+
+Sophomores, Computer Science  
 University of Southern Mississippi
 
 ---
