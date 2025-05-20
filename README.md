@@ -146,10 +146,13 @@ g++ Main.cpp -o TaskManager -lsqlite3
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Sujjal Chapagain**  
-Sophomore, Computer Science & Mathematics  
+**Abhiyan Poudel**
+**Hanzla Hamid**
+**Arjav Lamsal**
+Sophomore, Computer Science  
 University of Southern Mississippi
 
 ---
